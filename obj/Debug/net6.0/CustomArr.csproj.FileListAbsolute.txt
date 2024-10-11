@@ -1,0 +1,15 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\bin\Debug\net6.0\CustomArr.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\bin\Debug\net6.0\CustomArr.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\bin\Debug\net6.0\CustomArr.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\bin\Debug\net6.0\CustomArr.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\bin\Debug\net6.0\CustomArr.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\CustomArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\CustomArr.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\CustomArr.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\CustomArr.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\CustomArr.sourcelink.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\CustomArr.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\refint\CustomArr.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\CustomArr.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\CustomArr.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomArr\obj\Debug\net6.0\ref\CustomArr.dll
